@@ -1,6 +1,6 @@
 {
   "name": "publish-unscoped-package-to-npm-and-github",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Testing of publishing an unscoped NPM package to Github Package Registry",
   "main": "src/index.js",
   "scripts": {
