@@ -1,0 +1,11 @@
+{
+    "files.autoSave": "onFocusChange",
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    // "files.exclude": {
+    //   "**/node_modules": false
+    // },
+    "workbench.tree.indent": 18,
+    "editor.renderWhitespace": "boundary",
+    "editor.fontSize": 12,
+}

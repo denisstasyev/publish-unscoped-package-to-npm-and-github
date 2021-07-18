@@ -1,0 +1,32 @@
+{
+  "name": "publish-unscoped-package-to-npm-and-github",
+  "version": "1.0.0",
+  "description": "Testing of publishing an unscoped NPM package to Github Package Registry",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/denisstasyev/publish-unscoped-package-to-npm-and-github.git"
+  },
+  "keywords": [
+    "test",
+    "publish",
+    "npm",
+    "github",
+    "gpr"
+  ],
+  "author": "Denis Stasyev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/denisstasyev/publish-unscoped-package-to-npm-and-github/issues"
+  },
+  "homepage": "https://github.com/denisstasyev/publish-unscoped-package-to-npm-and-github#readme",
+  "publishConfig": {
+    "registry": "https://registry-url"
+  },
+  "devDependencies": {
+    "prettier": "^2.3.2"
+  }
+}
