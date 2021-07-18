@@ -24,3 +24,5 @@ Some notes here how to understand this workflow file:
 
 - [About Github's ENV-vars and EOF](https://docs.github.com/en/actions/reference/workflow-commands-for-github-actions#multiline-strings)
 - [About Github Action run command](https://docs.github.com/en/actions/reference/workflow-syntax-for-github-actions#jobsjob_idstepsrun)
+
+Now this repository contains the simplest example, you need to manually raise the version for publication
